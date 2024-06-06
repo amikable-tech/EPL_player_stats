@@ -1,0 +1,544 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+1,Clarence Acuña,cl CHI,MF,Newcastle Utd,26,1975,16,10,978,10.9,3,0,3,3,0,0,3,0,0.28,0,0.28,0.28,0.28,Matches
+2,Tony Adams,eng ENG,DF,Arsenal,34,1966,10,10,887,9.9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+3,Ade Akinbiyi,ng NGA,FW,Leicester City,26,1974,21,16,"1,528",17,2,1,3,2,0,0,3,0,0.12,0.06,0.18,0.12,0.18,Matches
+4,Niclas Alexandersson,se SWE,MF,Everton,29,1971,31,28,"2,365",26.3,2,4,6,2,0,0,1,0,0.08,0.15,0.23,0.08,0.23,Matches
+5,Jérémie Aliadière,fr FRA,"FW,MF",Arsenal,18,1983,1,0,10,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+6,Darren Ambrose,eng ENG,"FW,MF",Ipswich Town,17,1984,1,0,6,0.1,0,0,0,0,0,,0,0,0,0,0,0,0,Matches
+7,Shola Ameobi,ng NGA,FW,Newcastle Utd,19,1981,15,4,351,3.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+8,Darren Anderton,eng ENG,MF,Tottenham,29,1972,35,33,"2,928",32.5,3,5,8,3,0,0,1,0,0.09,0.15,0.25,0.09,0.25,Matches
+9,Nicolas Anelka,fr FRA,FW,Liverpool,22,1979,20,13,"1,263",14,4,2,6,4,0,0,0,0,0.29,0.14,0.43,0.29,0.43,Matches
+10,Julio Arca,ar ARG,"DF,MF",Sunderland,20,1981,22,20,"1,758",19.5,1,4,5,1,0,0,3,0,0.05,0.2,0.26,0.05,0.26,Matches
+11,Alun Armstrong,eng ENG,FW,Ipswich Town,26,1975,32,21,"1,714",19,4,0,4,4,0,0,1,0,0.21,0,0.21,0.21,0.21,Matches
+12,John Arne Riise,no NOR,"DF,MF",Liverpool,20,1980,38,34,"3,128",34.8,7,3,10,7,0,0,1,0,0.2,0.09,0.29,0.2,0.29,Matches
+13,Pegguy Arphexad,fr FRA,GK,Liverpool,28,1973,2,1,125,1.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+14,Jon Ashton,eng ENG,DF,Leicester City,18,1982,7,3,344,3.8,0,0,0,0,0,,0,0,0,0,0,0,0,Matches
+15,Celestine Babayaro,ng NGA,"DF,MF",Chelsea,22,1978,18,18,"1,539",17.1,0,1,1,0,0,0,6,0,0,0.06,0.06,0,0.06,Matches
+16,Markus Babbel,de GER,DF,Liverpool,28,1972,2,0,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+17,Eirik Bakke,no NOR,MF,Leeds United,23,1977,27,20,"1,951",21.7,2,1,3,2,0,0,6,0,0.09,0.05,0.14,0.09,0.14,Matches
+18,Boško Balaban,hr CRO,FW,Aston Villa,22,1978,5,0,88,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+19,Steve Banks,eng ENG,GK,Bolton,29,1972,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+20,Nick Barmby,eng ENG,"FW,MF",Liverpool,27,1974,6,2,213,2.4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+21,Anthony Barness,eng ENG,DF,Bolton,28,1973,25,19,"1,788",19.9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+22,Gareth Barry,eng ENG,MF,Aston Villa,20,1981,20,16,"1,430",15.9,0,3,3,0,0,0,0,0,0,0.19,0.19,0,0.19,Matches
+23,Chris Bart-Williams,eng ENG,"DF,MF",Charlton Ath,27,1974,16,10,914,10.2,1,2,3,1,0,0,2,0,0.1,0.2,0.3,0.1,0.3,Matches
+24,Fabien Barthez,fr FRA,GK,Manchester Utd,30,1971,32,32,"2,892",32.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+25,Shaun Bartlett,za RSA,FW,Charlton Ath,28,1972,14,10,765,8.5,2,0,2,2,0,0,2,0,0.24,0,0.24,0.24,0.24,Matches
+26,Warren Barton,eng ENG,DF,Derby County,32,1969,14,14,"1,260",14,0,1,1,0,0,0,2,0,0,0.07,0.07,0,0.07,Matches
+27,Warren Barton,eng ENG,DF,Newcastle Utd,32,1969,5,4,358,4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+28,Christian Bassedas,ar ARG,"DF,MF",Newcastle Utd,28,1973,2,1,99,1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+29,David Batty,eng ENG,MF,Leeds United,32,1968,36,30,"2,731",30.3,0,2,2,0,0,0,8,0,0,0.07,0.07,0,0.07,Matches
+30,James Beattie,eng ENG,FW,Southampton,23,1978,28,24,"2,133",23.7,12,4,16,10,2,2,3,0,0.51,0.17,0.68,0.42,0.59,Matches
+31,David Beckham,eng ENG,MF,Manchester Utd,26,1975,28,23,"2,129",23.7,11,8,19,10,1,1,6,0,0.47,0.34,0.8,0.42,0.76,Matches
+32,David Beharall,eng ENG,DF,Newcastle Utd,22,1979,1,0,45,0.5,0,0,0,0,0,,0,0,0,0,0,0,0,Matches
+33,Craig Bellamy,wls WAL,FW,Newcastle Utd,22,1979,27,26,"2,313",25.7,9,4,13,9,0,0,8,1,0.35,0.16,0.51,0.35,0.51,Matches
+34,David Bellion,fr FRA,FW,Sunderland,18,1982,7,0,161,1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+35,Francis Benali,eng ENG,DF,Southampton,32,1968,3,0,55,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+36,Trevor Benjamin,jm JAM,FW,Leicester City,22,1979,11,4,474,5.3,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+37,Darren Bent,eng ENG,FW,Ipswich Town,17,1984,5,2,230,2.6,1,0,1,1,0,0,0,0,0.39,0,0.39,0.39,0.39,Matches
+38,Marcus Bent,eng ENG,FW,Ipswich Town,23,1978,25,22,"1,925",21.4,9,1,10,9,0,,2,0,0.42,0.05,0.47,0.42,0.47,Matches
+39,Marcus Bent,eng ENG,FW,Blackburn,23,1978,9,1,246,2.7,0,1,1,0,0,,2,0,0,0.37,0.37,0,0.37,Matches
+40,Marlon Beresford,eng ENG,GK,Middlesbrough,31,1969,1,0,72,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+41,Henning Berg,no NOR,DF,Blackburn,31,1969,34,34,"2,986",33.2,1,2,3,1,0,0,2,0,0.03,0.06,0.09,0.03,0.09,Matches
+42,Patrik Berger,cz CZE,MF,Liverpool,27,1973,21,12,"1,152",12.8,1,2,3,1,0,0,0,0,0.08,0.16,0.23,0.08,0.23,Matches
+43,Dennis Bergkamp,nl NED,FW,Arsenal,32,1969,33,22,"1,948",21.6,9,12,21,9,0,0,2,0,0.42,0.55,0.97,0.42,0.97,Matches
+44,Guðni Bergsson,is ISL,DF,Bolton,36,1965,30,30,"2,649",29.4,1,3,4,1,0,0,1,0,0.03,0.1,0.14,0.03,0.14,Matches
+45,Olivier Bernard,fr FRA,DF,Newcastle Utd,21,1979,16,4,581,6.5,3,0,3,3,0,0,1,0,0.46,0,0.46,0.46,0.46,Matches
+46,Kevin Betsy,sc SEY,"FW,MF",Fulham,23,1978,1,0,6,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+47,Igor Bišćan,hr CRO,"DF,MF",Liverpool,23,1978,5,4,292,3.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+48,Joachim Björklund,se SWE,DF,Sunderland,30,1971,12,11,986,11,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+49,Nathan Blake,wls WAL,FW,Blackburn,29,1972,3,0,115,1.3,1,0,1,1,0,0,0,0,0.78,0,0.78,0.78,0.78,Matches
+50,Laurent Blanc,fr FRA,"DF,MF",Manchester Utd,35,1965,29,29,"2,549",28.3,1,0,1,1,0,0,4,0,0.04,0,0.04,0.04,0.04,Matches
+51,Imants Bleidelis,lv LVA,MF,Southampton,25,1975,1,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,Matches
+52,Jesper Blomqvist,se SWE,"DF,MF",Everton,27,1974,15,10,883,9.8,1,0,1,1,0,0,2,0,0.1,0,0.1,0.1,0.1,Matches
+53,Luís Boa Morte,pt POR,"FW,MF",Fulham,23,1977,23,15,"1,343",14.9,1,1,2,1,0,1,8,2,0.07,0.07,0.13,0.07,0.13,Matches
+54,George Boateng,nl NED,MF,Aston Villa,25,1975,37,37,"3,290",36.6,1,1,2,1,0,0,5,0,0.03,0.03,0.05,0.03,0.05,Matches
+55,Fredi Bobic,de GER,FW,Bolton,29,1971,16,14,"1,077",12,4,2,6,4,0,0,2,0,0.33,0.17,0.5,0.33,0.5,Matches
+56,Paul Boertien,eng ENG,DF,Derby County,22,1979,32,23,"2,196",24.4,0,1,1,0,0,0,6,0,0,0.04,0.04,0,0.04,Matches
+57,Alen Bokšić,hr CRO,FW,Middlesbrough,31,1970,22,20,"1,785",19.8,8,1,9,6,2,2,2,0,0.4,0.05,0.45,0.3,0.35,Matches
+58,Adam Bolder,eng ENG,MF,Derby County,20,1980,11,2,415,4.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+59,Mark Bosnich,au AUS,GK,Chelsea,29,1972,5,5,440,4.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+60,Lee Bowyer,eng ENG,MF,Leeds United,24,1977,25,24,"2,171",24.1,5,5,10,5,0,0,7,1,0.21,0.21,0.41,0.21,0.41,Matches
+61,Titus Bramble,eng ENG,DF,Ipswich Town,20,1981,18,16,"1,493",16.6,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+62,Keith Branagan,ie IRL,GK,Ipswich Town,35,1966,1,0,29,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+63,Rufus Brevett,eng ENG,DF,Fulham,31,1969,35,34,"3,039",33.8,0,3,3,0,0,0,5,0,0,0.09,0.09,0,0.09,Matches
+64,Wayne Bridge,eng ENG,DF,Southampton,20,1980,38,38,"3,420",38,0,2,2,0,0,0,0,0,0,0.05,0.05,0,0.05,Matches
+65,Giovanni van Bronckhorst,nl NED,"DF,MF",Arsenal,26,1975,21,13,"1,289",14.3,1,0,1,1,0,0,5,1,0.07,0,0.07,0.07,0.07,Matches
+66,Steve Brown,eng ENG,DF,Charlton Ath,29,1972,14,11,929,10.3,2,0,2,2,0,0,3,1,0.19,0,0.19,0.19,0.19,Matches
+67,Wes Brown,eng ENG,DF,Manchester Utd,21,1979,17,15,"1,374",15.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+68,Goran Bunjevčević,rs SRB,DF,Tottenham,28,1973,6,5,417,4.6,0,1,1,0,0,0,0,0,0,0.22,0.22,0,0.22,Matches
+69,Craig Burley,sct SCO,MF,Derby County,29,1971,11,11,990,11,0,2,2,0,0,0,3,0,0,0.18,0.18,0,0.18,Matches
+70,Deon Burton,jm JAM,FW,Derby County,24,1976,17,8,839,9.3,1,3,4,1,0,1,1,0,0.11,0.32,0.43,0.11,0.43,Matches
+71,Thomas Butler,ie IRL,MF,Sunderland,20,1981,7,2,390,4.3,0,1,1,0,0,0,1,0,0,0.23,0.23,0,0.23,Matches
+72,Nicky Butt,eng ENG,"DF,MF",Manchester Utd,26,1975,25,20,"1,709",19,1,1,2,1,0,0,6,0,0.05,0.05,0.11,0.05,0.11,Matches
+73,Shaun Byrne,ie IRL,"DF,MF",West Ham,20,1981,1,0,13,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+74,Danny Cadamarteri,eng ENG,FW,Everton,21,1979,3,2,111,1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+75,Titi Camara,gn GUI,FW,West Ham,28,1972,1,0,7,0.1,0,0,0,0,0,,0,0,0,0,0,0,0,Matches
+76,Andy Campbell,eng ENG,FW,Middlesbrough,22,1979,4,0,114,1.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+77,Kevin Campbell,eng ENG,FW,Everton,31,1970,23,21,"1,880",20.9,4,1,5,4,0,0,2,0,0.19,0.05,0.24,0.19,0.24,Matches
+78,Sol Campbell,eng ENG,"DF,FW",Arsenal,26,1974,31,29,"2,625",29.2,2,1,3,2,0,0,2,0,0.07,0.03,0.1,0.07,0.1,Matches
+79,Horacio Carbonari,ar ARG,DF,Derby County,27,1974,3,3,244,2.7,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+80,Benito Carbone,it ITA,FW,Derby County,29,1971,13,13,"1,092",12.1,1,3,4,1,0,0,2,1,0.08,0.25,0.33,0.08,0.33,Matches
+81,Benito Carbone,it ITA,FW,Middlesbrough,29,1971,13,13,"1,104",12.3,1,5,6,1,0,0,1,0,0.08,0.41,0.49,0.08,0.49,Matches
+82,Jamie Carragher,eng ENG,"DF,MF",Liverpool,23,1978,33,33,"2,970",33,0,1,1,0,0,0,7,0,0,0.03,0.03,0,0.03,Matches
+83,Michael Carrick,eng ENG,MF,West Ham,20,1981,30,30,"2,654",29.5,2,2,4,2,0,0,4,0,0.07,0.07,0.14,0.07,0.14,Matches
+84,Roy Carroll,nir NIR,GK,Manchester Utd,23,1977,7,6,548,6.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+85,Lee Carsley,ie IRL,MF,Everton,27,1974,8,8,635,7.1,1,0,1,1,0,0,0,0,0.14,0,0.14,0.14,0.14,Matches
+86,Luke Chadwick,eng ENG,MF,Manchester Utd,20,1980,8,5,404,4.5,0,2,2,0,0,0,0,0,0,0.45,0.45,0,0.45,Matches
+87,Nick Chadwick,eng ENG,FW,Everton,18,1982,9,2,227,2.5,3,0,3,3,0,0,0,0,1.19,0,1.19,1.19,1.19,Matches
+88,Simon Charlton,eng ENG,DF,Bolton,29,1971,36,35,"3,054",33.9,0,1,1,0,0,0,2,0,0,0.03,0.03,0,0.03,Matches
+89,Malcolm Christie,eng ENG,FW,Derby County,22,1979,35,27,"2,397",26.6,9,1,10,9,0,0,2,0,0.34,0.04,0.38,0.34,0.38,Matches
+90,Jamie Clapham,eng ENG,DF,Ipswich Town,25,1975,32,22,"2,226",24.7,2,2,4,2,0,0,0,0,0.08,0.08,0.16,0.08,0.16,Matches
+91,Lee Clark,eng ENG,MF,Fulham,28,1972,9,5,403,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+92,Peter Clarke,eng ENG,DF,Everton,19,1982,7,5,439,4.9,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+93,Alec Cleland,sct SCO,DF,Everton,30,1970,3,0,71,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+94,Stephen Clemence,eng ENG,MF,Tottenham,23,1978,6,4,282,3.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+95,Andy Cole,eng ENG,FW,Manchester Utd,29,1971,11,7,713,7.9,4,3,7,,,,0,0,0.5,0.38,0.88,,,Matches
+96,Andy Cole,eng ENG,FW,Blackburn,29,1971,15,15,"1,278",14.2,9,2,11,9,0,0,2,1,0.63,0.14,0.77,0.63,0.77,Matches
+97,Ashley Cole,eng ENG,DF,Arsenal,20,1980,29,29,"2,485",27.6,2,3,5,2,0,0,6,0,0.07,0.11,0.18,0.07,0.18,Matches
+98,Carlton Cole,eng ENG,FW,Chelsea,17,1983,3,2,178,2,1,0,1,1,0,0,0,0,0.51,0,0.51,0.51,0.51,Matches
+99,Joe Cole,eng ENG,MF,West Ham,19,1981,30,29,"2,608",29,0,3,3,0,0,0,5,0,0,0.1,0.1,0,0.1,Matches
+100,John Collins,sct SCO,MF,Fulham,33,1968,34,29,"2,608",29,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+101,Colin Cooper,eng ENG,DF,Middlesbrough,34,1967,18,14,"1,389",15.4,2,0,2,2,0,0,3,0,0.13,0,0.13,0.13,0.13,Matches
+102,Carl Cort,gy GUY,FW,Newcastle Utd,23,1977,8,6,446,5,1,1,2,1,0,0,0,0,0.2,0.2,0.4,0.2,0.4,Matches
+103,Jorge Costa,pt POR,DF,Charlton Ath,29,1971,24,22,"2,035",22.6,0,0,0,0,0,0,9,0,0,0,0,0,0,Matches
+104,Pablo Couñago,es ESP,FW,Ipswich Town,21,1979,13,1,435,4.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+105,Laurent Courtois,fr FRA,MF,West Ham,22,1978,7,5,394,4.4,0,1,1,0,0,0,0,0,0,0.23,0.23,0,0.23,Matches
+106,Jody Craddock,eng ENG,"DF,MF",Sunderland,26,1975,30,30,"2,683",29.8,1,0,1,1,0,0,3,0,0.03,0,0.03,0.03,0.03,Matches
+107,Mark Crossley,wls WAL,GK,Middlesbrough,32,1969,18,17,"1,517",16.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+108,Peter Crouch,eng ENG,FW,Aston Villa,20,1981,7,7,587,6.5,2,2,4,2,0,0,0,0,0.31,0.31,0.61,0.31,0.61,Matches
+109,Carlo Cudicini,it ITA,GK,Chelsea,27,1973,28,27,"2,530",28.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+110,John Curtis,eng ENG,DF,Blackburn,22,1978,9,9,747,8.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+111,Nikos Dabizas,gr GRE,DF,Newcastle Utd,27,1973,35,33,"2,900",32.2,3,0,3,3,0,0,5,0,0.09,0,0.09,0.09,0.09,Matches
+112,Olivier Dacourt,fr FRA,MF,Leeds United,26,1974,17,16,"1,205",13.4,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+113,Christian Dailly,sct SCO,DF,West Ham,27,1973,38,38,"3,375",37.5,0,1,1,0,0,0,3,0,0,0.03,0.03,0,0.03,Matches
+114,Daniele Daino,it ITA,DF,Derby County,21,1979,2,2,167,1.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+115,Samuele Dalla Bona,it ITA,MF,Chelsea,20,1981,24,16,"1,566",17.4,4,0,4,4,0,0,7,0,0.23,0,0.23,0.23,0.23,Matches
+116,Callum Davidson,sct SCO,DF,Leicester City,25,1976,30,29,"2,552",28.4,0,3,3,0,0,0,2,0,0,0.11,0.11,0,0.11,Matches
+117,Kevin Davies,eng ENG,FW,Southampton,24,1977,23,18,"1,513",16.8,2,0,2,2,0,0,5,0,0.12,0,0.12,0.12,0.12,Matches
+118,Simon Davies,wls WAL,MF,Tottenham,21,1979,31,22,"2,049",22.8,4,3,7,4,0,0,0,0,0.18,0.13,0.31,0.18,0.31,Matches
+119,Sean Davis,eng ENG,MF,Fulham,21,1979,30,25,"2,165",24.1,0,1,1,0,0,0,4,0,0,0.04,0.04,0,0.04,Matches
+120,Brian Deane,eng ENG,FW,Middlesbrough,33,1968,7,6,525,5.8,1,0,1,1,0,0,1,0,0.17,0,0.17,0.17,0.17,Matches
+121,Brian Deane,eng ENG,FW,Leicester City,33,1968,15,13,"1,182",13.1,6,1,7,6,0,0,2,0,0.46,0.08,0.53,0.46,0.53,Matches
+122,Mickaël Debève,fr FRA,MF,Middlesbrough,30,1970,4,1,195,2.2,0,0,0,0,0,,0,0,0,0,0,0,0,Matches
+123,Jermain Defoe,eng ENG,FW,West Ham,18,1982,35,14,"1,640",18.2,10,0,10,10,0,0,0,0,0.55,0,0.55,0.55,0.55,Matches
+124,Damien Delaney,ie IRL,DF,Leicester City,20,1981,1,0,60,0.7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+125,Mark Delaney,wls WAL,DF,Aston Villa,25,1976,30,30,"2,558",28.4,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches
+126,Rory Delap,ie IRL,MF,Southampton,25,1976,28,24,"2,072",23,2,2,4,2,0,,3,2,0.09,0.09,0.17,0.09,0.17,Matches
+127,Agustín Delgado,ec ECU,FW,Southampton,26,1974,1,0,65,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+128,Raimond van der Gouw,nl NED,GK,Manchester Utd,38,1963,2,0,27,0.3,0,0,0,0,0,,0,0,0,0,0,0,0,Matches
+129,Edwin van der Sar,nl NED,GK,Fulham,30,1970,37,37,"3,330",37,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+130,Marcel Desailly,fr FRA,"DF,MF",Chelsea,32,1968,24,24,"2,160",24,1,1,2,1,0,0,5,0,0.04,0.04,0.08,0.04,0.08,Matches
+131,Paolo Di Canio,it ITA,FW,West Ham,33,1968,26,26,"2,278",25.3,9,6,15,5,4,5,5,1,0.36,0.24,0.59,0.2,0.43,Matches
+132,Djibril Diawara,fr FRA,DF,Bolton,26,1975,9,4,473,5.3,0,0,0,0,0,0,2,1,0,0,0,0,0,Matches
+133,Paul Dickov,sct SCO,FW,Leicester City,28,1972,12,11,997,11.1,4,1,5,4,0,0,5,0,0.36,0.09,0.45,0.36,0.45,Matches
+134,Sylvain Distin,fr FRA,DF,Newcastle Utd,23,1977,28,20,"1,947",21.6,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches
+135,Lee Dixon,eng ENG,DF,Arsenal,37,1964,13,3,515,5.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+136,Youri Djorkaeff,fr FRA,"FW,MF",Bolton,33,1968,12,12,982,10.9,4,1,5,4,0,0,0,0,0.37,0.09,0.46,0.37,0.46,Matches
+137,Jason Dodd,eng ENG,DF,Southampton,30,1970,29,26,"2,423",26.9,0,4,4,0,0,0,3,0,0,0.15,0.15,0,0.15,Matches
+138,Gary Doherty,ie IRL,"DF,FW",Tottenham,21,1980,4,4,360,4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+139,Stewart Downing,eng ENG,"FW,MF",Middlesbrough,17,1984,3,2,200,2.2,0,0,0,0,0,,0,0,0,0,0,0,0,Matches
+140,Mark Draper,eng ENG,MF,Southampton,30,1970,2,1,108,1.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+141,Michael Duberry,eng ENG,DF,Leeds United,25,1975,3,3,270,3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+142,Dion Dublin,eng ENG,"DF,FW",Aston Villa,32,1969,21,9,"1,025",11.4,4,3,7,4,0,0,2,1,0.35,0.26,0.61,0.35,0.61,Matches
+143,Pierre Ducrocq,fr FRA,"DF,MF",Derby County,24,1976,19,19,"1,557",17.3,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+144,Jerzy Dudek,pl POL,GK,Liverpool,28,1973,35,35,"3,115",34.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+145,Damien Duff,ie IRL,"FW,MF",Blackburn,22,1979,32,31,"2,739",30.4,7,6,13,7,0,0,3,0,0.23,0.2,0.43,0.23,0.43,Matches
+146,David Dunn,eng ENG,MF,Blackburn,21,1979,29,26,"2,221",24.7,7,5,12,6,1,1,4,0,0.28,0.2,0.49,0.24,0.45,Matches
+147,Kieron Dyer,eng ENG,MF,Newcastle Utd,22,1978,18,15,"1,366",15.2,3,4,7,3,0,0,0,0,0.2,0.26,0.46,0.2,0.46,Matches
+148,Ugo Ehiogu,eng ENG,DF,Middlesbrough,28,1972,29,29,"2,570",28.6,1,0,1,1,0,0,3,2,0.04,0,0.04,0.04,0.04,Matches
+149,Matt Elliott,sct SCO,DF,Leicester City,32,1968,31,31,"2,745",30.5,0,2,2,0,0,0,4,1,0,0.07,0.07,0,0.07,Matches
+150,Robbie Elliott,eng ENG,DF,Newcastle Utd,27,1973,27,26,"2,147",23.9,1,4,5,1,0,0,4,0,0.04,0.17,0.21,0.04,0.21,Matches
+151,Steve Elliott,eng ENG,DF,Derby County,22,1978,6,2,130,1.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+152,Peter Enckelman,fi FIN,GK,Aston Villa,24,1977,9,9,810,9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+153,Mario Espartero,fr FRA,MF,Bolton,23,1978,3,0,59,0.7,0,0,0,0,0,,0,0,0,0,0,0,0,Matches
+154,Matthew Etherington,eng ENG,MF,Tottenham,19,1981,11,3,401,4.5,0,1,1,0,0,0,1,0,0,0.22,0.22,0,0.22,Matches
+155,Jason Euell,jm JAM,"FW,MF",Charlton Ath,24,1977,36,31,"2,851",31.7,11,3,14,11,0,0,3,0,0.35,0.09,0.44,0.35,0.44,Matches
+156,Ian Evatt,eng ENG,DF,Derby County,19,1981,3,1,170,1.9,0,0,0,0,0,,1,0,0,0,0,0,0,Matches
+157,Gareth Farrelly,ie IRL,MF,Bolton,25,1975,18,11,"1,108",12.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+158,Les Ferdinand,eng ENG,FW,Tottenham,34,1966,25,22,"1,745",19.4,9,2,11,9,0,0,4,0,0.46,0.1,0.57,0.46,0.57,Matches
+159,Rio Ferdinand,eng ENG,DF,Leeds United,22,1978,31,31,"2,790",31,0,1,1,0,0,0,0,0,0,0.03,0.03,0,0.03,Matches
+160,Duncan Ferguson,sct SCO,FW,Everton,29,1971,22,17,"1,604",17.8,6,1,7,4,2,2,5,1,0.34,0.06,0.39,0.22,0.28,Matches
+161,Fabrice Fernandes,fr FRA,MF,Southampton,21,1979,11,6,536,6,1,0,1,1,0,0,0,0,0.17,0,0.17,0.17,0.17,Matches
+162,Albert Ferrer,es ESP,DF,Chelsea,31,1970,4,2,172,1.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+163,Gianluca Festa,it ITA,DF,Middlesbrough,32,1969,8,8,650,7.2,1,0,1,1,0,0,1,2,0.14,0,0.14,0.14,0.14,Matches
+164,Ian Feuer,us USA,GK,Derby County,30,1971,2,2,180,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+165,Steve Finnan,ie IRL,DF,Fulham,25,1976,38,38,"3,420",38,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+166,Mark Fish,za RSA,"DF,FW",Charlton Ath,27,1974,25,25,"2,139",23.8,0,2,2,0,0,0,3,0,0,0.08,0.08,0,0.08,Matches
+167,Curtis Fleming,ie IRL,DF,Middlesbrough,32,1968,8,8,705,7.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+168,Garry Flitcroft,eng ENG,MF,Blackburn,28,1972,29,26,"2,341",26,1,2,3,1,0,0,7,0,0.04,0.08,0.12,0.04,0.12,Matches
+169,Tim Flowers,eng ENG,GK,Leicester City,34,1967,4,3,336,3.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+170,Jimmy Floyd Hasselbaink,nl NED,FW,Chelsea,29,1972,35,35,"3,064",34,23,6,29,20,3,3,5,1,0.68,0.18,0.85,0.59,0.76,Matches
+171,Patrick Foletti,ch SUI,GK,Derby County,27,1974,2,1,148,1.6,0,0,0,0,0,,0,0,0,0,0,0,0,Matches
+172,Diego Forlán,uy URU,"FW,MF",Manchester Utd,22,1979,3,0,52,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+173,Mikael Forssell,fi FIN,FW,Chelsea,20,1981,22,2,455,5.1,4,2,6,4,0,0,0,0,0.79,0.4,1.19,0.79,1.19,Matches
+174,Jonathan Fortune,eng ENG,DF,Charlton Ath,20,1980,19,14,"1,335",14.8,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+175,Quinton Fortune,za RSA,MF,Manchester Utd,24,1977,14,8,697,7.7,1,0,1,1,0,0,0,0,0.13,0,0.13,0.13,0.13,Matches
+176,Robbie Fowler,eng ENG,FW,Leeds United,26,1975,22,22,"1,851",20.6,12,3,15,12,0,1,1,0,0.58,0.15,0.73,0.58,0.73,Matches
+177,Robbie Fowler,eng ENG,FW,Liverpool,26,1975,10,8,667,7.4,3,1,4,,,,2,0,0.4,0.13,0.54,,,Matches
+178,Hayden Foxe,au AUS,DF,West Ham,24,1977,6,4,411,4.6,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+179,Per Frandsen,dk DEN,MF,Bolton,31,1970,29,25,"2,163",24,3,5,8,3,0,1,4,0,0.12,0.21,0.33,0.12,0.33,Matches
+180,Steffen Freund,de GER,MF,Tottenham,31,1970,20,19,"1,675",18.6,0,0,0,0,0,0,6,0,0,0,0,0,0,Matches
+181,Brad Friedel,us USA,GK,Blackburn,30,1971,36,36,"3,240",36,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+182,Thomas Gaardsøe,dk DEN,DF,Ipswich Town,21,1979,4,3,279,3.1,1,0,1,1,0,0,1,0,0.32,0,0.32,0.32,0.32,Matches
+183,William Gallas,fr FRA,DF,Chelsea,23,1977,30,27,"2,540",28.2,1,0,1,1,0,0,4,0,0.04,0,0.04,0.04,0.04,Matches
+184,Richard Garcia,au AUS,"FW,MF",West Ham,19,1981,2,1,85,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+185,Anthony Gardner,eng ENG,DF,Tottenham,20,1980,15,11,"1,053",11.7,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches
+186,Ricardo Gardner,jm JAM,"DF,MF",Bolton,22,1978,31,29,"2,489",27.7,3,4,7,3,0,0,4,1,0.11,0.14,0.25,0.11,0.25,Matches
+187,Paul Gascoigne,eng ENG,MF,Everton,34,1967,18,8,891,9.9,1,0,1,1,0,0,2,0,0.1,0,0.1,0.1,0.1,Matches
+188,Edu Gaspar,br BRA,MF,Arsenal,23,1978,14,11,696,7.7,1,1,2,1,0,0,3,0,0.13,0.13,0.26,0.13,0.26,Matches
+189,Jason Gavin,ie IRL,DF,Middlesbrough,21,1980,8,5,441,4.9,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+190,Scot Gemmill,sct SCO,MF,Everton,30,1971,32,31,"2,839",31.5,1,4,5,1,0,0,4,0,0.03,0.13,0.16,0.03,0.16,Matches
+191,Finidi George,ng NGA,"FW,MF",Ipswich Town,30,1971,25,21,"1,651",18.3,6,2,8,6,0,0,0,0,0.33,0.11,0.44,0.33,0.44,Matches
+192,Paul Gerrard,eng ENG,GK,Everton,28,1973,13,13,"1,170",13,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+193,Steven Gerrard,eng ENG,MF,Liverpool,21,1980,28,26,"2,133",23.7,3,8,11,3,0,0,5,1,0.13,0.34,0.46,0.13,0.46,Matches
+194,Ryan Giggs,wls WAL,"FW,MF",Manchester Utd,27,1973,25,18,"1,680",18.7,7,12,19,7,0,0,1,0,0.37,0.64,1.02,0.37,1.02,Matches
+195,Keith Gillespie,nir NIR,"FW,MF",Blackburn,26,1975,32,21,"2,103",23.4,2,4,6,2,0,0,4,0,0.09,0.17,0.26,0.09,0.26,Matches
+196,David Ginola,fr FRA,"FW,MF",Aston Villa,34,1967,5,0,122,1.4,0,0,0,0,0,0,0,1,0,0,0,0,0,Matches
+197,David Ginola,fr FRA,"FW,MF",Everton,34,1967,5,2,187,2.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+198,Shay Given,ie IRL,GK,Newcastle Utd,25,1976,38,38,"3,420",38,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+199,Ed de Goey,nl NED,GK,Chelsea,34,1966,6,6,540,6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+200,Bjarne Goldbæk,dk DEN,MF,Fulham,32,1968,13,8,697,7.7,1,1,2,1,0,0,1,0,0.13,0.13,0.26,0.13,0.26,Matches
+201,Alain Goma,fr FRA,DF,Fulham,28,1972,33,32,"2,783",30.9,0,1,1,0,0,0,7,0,0,0.03,0.03,0,0.03,Matches
+202,Dean Gordon,eng ENG,"DF,MF",Middlesbrough,28,1973,1,0,36,0.4,0,0,0,0,0,,0,0,0,0,0,0,0,Matches
+203,Corrado Grabbi,it ITA,FW,Blackburn,26,1975,14,10,676,7.5,1,3,4,1,0,0,1,0,0.13,0.4,0.53,0.13,0.53,Matches
+204,Thomas Gravesen,dk DEN,MF,Everton,25,1976,25,22,"1,696",18.8,2,5,7,2,0,0,8,1,0.11,0.27,0.37,0.11,0.37,Matches
+205,Michael Gray,eng ENG,"DF,MF",Sunderland,26,1974,35,35,"3,091",34.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+206,Jonathan Greening,eng ENG,MF,Middlesbrough,22,1979,36,36,"3,039",33.8,1,1,2,1,0,1,4,0,0.03,0.03,0.06,0.03,0.06,Matches
+207,François Grenet,fr FRA,DF,Derby County,26,1975,15,12,"1,022",11.4,0,0,0,0,0,0,2,1,0,0,0,0,0,Matches
+208,Andy Griffin,eng ENG,DF,Newcastle Utd,22,1979,4,3,276,3.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+209,Gilles Grimandi,fr FRA,DF,Arsenal,30,1970,26,11,"1,174",13,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+210,Jesper Grønkjær,dk DEN,"FW,MF",Chelsea,23,1977,13,11,923,10.3,0,3,3,0,0,0,4,0,0,0.29,0.29,0,0.29,Matches
+211,Ole Gunnar Solskjær,no NOR,FW,Manchester Utd,28,1973,30,23,"2,062",22.9,17,9,26,17,0,0,3,0,0.74,0.39,1.13,0.74,1.13,Matches
+212,Arnar Gunnlaugsson,is ISL,"FW,MF",Leicester City,28,1973,2,0,80,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+213,Eiður Guðjohnsen,is ISL,"FW,MF",Chelsea,22,1978,32,26,"2,167",24.1,14,6,20,14,0,0,2,0,0.58,0.25,0.83,0.58,0.83,Matches
+214,Bernt Haas,ch SUI,DF,Sunderland,23,1978,27,27,"2,374",26.4,0,1,1,0,0,0,6,0,0,0.04,0.04,0,0.04,Matches
+215,Mustapha Hadji,ma MAR,MF,Aston Villa,29,1971,23,17,"1,559",17.3,2,2,4,2,0,0,3,0,0.12,0.12,0.23,0.12,0.23,Matches
+216,Dietmar Hamann,de GER,MF,Liverpool,27,1973,31,31,"2,733",30.4,1,4,5,1,0,0,2,1,0.03,0.13,0.16,0.03,0.16,Matches
+217,Bo Hansen,dk DEN,"FW,MF",Bolton,29,1972,17,10,878,9.8,1,1,2,1,0,0,1,0,0.1,0.1,0.21,0.1,0.21,Matches
+218,Jon Harley,eng ENG,DF,Fulham,21,1979,10,5,548,6.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+219,Ian Harte,ie IRL,DF,Leeds United,23,1977,36,34,"3,139",34.9,5,4,9,4,1,1,1,0,0.14,0.11,0.26,0.11,0.23,Matches
+220,Barry Hayles,jm JAM,FW,Fulham,29,1972,35,27,"2,436",27.1,8,3,11,8,0,0,6,0,0.3,0.11,0.41,0.3,0.41,Matches
+221,Matt Heath,eng ENG,DF,Leicester City,19,1981,2,2,180,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+222,Vegard Heggem,no NOR,"DF,MF",Liverpool,26,1975,1,1,90,1,0,0,0,0,0,,0,0,0,0,0,0,0,Matches
+223,Stéphane Henchoz,ch SUI,DF,Liverpool,26,1974,37,37,"3,315",36.8,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches
+224,Lee Hendrie,eng ENG,MF,Aston Villa,24,1977,29,25,"2,103",23.4,2,3,5,2,0,0,3,0,0.09,0.13,0.21,0.09,0.21,Matches
+225,Colin Hendry,sct SCO,DF,Bolton,35,1965,3,3,203,2.3,0,1,1,0,0,0,2,0,0,0.44,0.44,0,0.44,Matches
+226,Thierry Henry,fr FRA,FW,Arsenal,23,1977,33,31,"2,770",30.8,24,5,29,20,4,4,4,0,0.78,0.16,0.94,0.65,0.81,Matches
+227,Emile Heskey,eng ENG,FW,Liverpool,23,1978,35,26,"2,365",26.3,9,7,16,9,0,0,3,0,0.34,0.27,0.61,0.34,0.61,Matches
+228,Tony Hibbert,eng ENG,DF,Everton,20,1981,10,7,550,6.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+229,Danny Higginbotham,gi GIB,DF,Derby County,22,1978,37,37,"3,330",37,1,0,1,0,1,1,7,0,0.03,0,0.03,0,0,Matches
+230,Craig Hignett,eng ENG,"FW,MF",Blackburn,31,1970,20,4,702,7.8,4,3,7,4,0,0,2,0,0.51,0.38,0.9,0.51,0.9,Matches
+231,Shaka Hislop,tt TRI,GK,West Ham,32,1969,12,12,"1,080",12,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+232,Thomas Hitzlsperger,de GER,MF,Aston Villa,19,1982,12,11,935,10.4,1,2,3,1,0,,1,0,0.1,0.19,0.29,0.1,0.29,Matches
+233,Dean Holdsworth,eng ENG,FW,Bolton,32,1968,31,9,"1,072",11.9,2,0,2,2,0,0,4,1,0.17,0,0.17,0.17,0.17,Matches
+234,Matt Holland,ie IRL,MF,Ipswich Town,27,1974,38,38,"3,420",38,3,3,6,3,0,0,0,0,0.08,0.08,0.16,0.08,0.16,Matches
+235,Hermann Hreiðarsson,is ISL,DF,Ipswich Town,27,1974,38,38,"3,420",38,1,1,2,1,0,0,5,0,0.03,0.03,0.05,0.03,0.05,Matches
+236,Mark Hudson,eng ENG,MF,Middlesbrough,20,1980,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+237,Aaron Hughes,nir NIR,DF,Newcastle Utd,21,1979,34,34,"3,042",33.8,0,4,4,0,0,0,1,0,0,0.12,0.12,0,0.12,Matches
+238,Mark Hughes,wls WAL,FW,Blackburn,37,1963,21,4,660,7.3,1,0,1,1,0,0,3,0,0.14,0,0.14,0.14,0.14,Matches
+239,Don Hutchison,sct SCO,MF,West Ham,30,1971,24,24,"2,024",22.5,1,2,3,1,0,0,3,0,0.04,0.09,0.13,0.04,0.13,Matches
+240,Don Hutchison,sct SCO,MF,Sunderland,30,1971,2,2,157,1.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+241,Robert Huth,de GER,DF,Chelsea,16,1984,1,0,45,0.5,0,0,0,0,0,,0,0,0,0,0,0,0,Matches
+242,Sami Hyypiä,fi FIN,DF,Liverpool,27,1973,37,37,"3,330",37,3,0,3,3,0,0,3,0,0.08,0,0.08,0.08,0.08,Matches
+243,Andy Impey,eng ENG,"DF,MF",Leicester City,29,1971,27,20,"1,839",20.4,0,1,1,0,0,0,3,0,0,0.05,0.05,0,0.05,Matches
+244,Paul Ince,eng ENG,MF,Middlesbrough,33,1967,31,31,"2,770",30.8,2,2,4,2,0,0,11,1,0.06,0.06,0.13,0.06,0.13,Matches
+245,Stig Inge Bjørnebye,no NOR,DF,Blackburn,31,1969,23,23,"1,889",21,0,1,1,0,0,0,3,0,0,0.05,0.05,0,0.05,Matches
+246,Denis Irwin,ie IRL,DF,Manchester Utd,35,1965,12,10,824,9.2,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+247,Steffen Iversen,no NOR,FW,Tottenham,24,1976,18,12,"1,308",14.5,4,1,5,4,0,0,1,0,0.28,0.07,0.34,0.28,0.34,Matches
+248,Muzzy Izzet,tr TUR,MF,Leicester City,26,1974,31,29,"2,565",28.5,4,1,5,2,2,4,11,1,0.14,0.04,0.18,0.07,0.11,Matches
+249,Jussi Jääskeläinen,fi FIN,GK,Bolton,26,1975,34,34,"3,032",33.7,0,0,0,0,0,0,2,2,0,0,0,0,0,Matches
+250,Richard Jackson,eng ENG,DF,Derby County,21,1980,3,3,246,2.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+251,David James,eng ENG,GK,West Ham,30,1970,26,26,"2,340",26,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+252,Matt Jansen,eng ENG,FW,Blackburn,23,1977,35,34,"2,927",32.5,10,5,15,10,0,0,2,0,0.31,0.15,0.46,0.31,0.46,Matches
+253,Francis Jeffers,eng ENG,FW,Arsenal,20,1981,6,4,197,2.2,2,0,2,2,0,0,1,0,0.91,0,0.91,0.91,0.91,Matches
+254,Jermaine Jenas,eng ENG,MF,Newcastle Utd,18,1983,12,6,623,6.9,0,1,1,0,0,,0,0,0,0.14,0.14,0,0.14,Matches
+255,Claus Jensen,dk DEN,MF,Charlton Ath,24,1977,18,16,"1,412",15.7,1,1,2,1,0,0,0,0,0.06,0.06,0.13,0.06,0.13,Matches
+256,Joseph-Désiré Job,cm CMR,"FW,MF",Middlesbrough,23,1977,4,3,284,3.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+257,Jonatan Johansson,fi FIN,FW,Charlton Ath,25,1975,30,21,"1,937",21.5,5,3,8,5,0,0,1,0,0.23,0.14,0.37,0.23,0.37,Matches
+258,Nils-Eric Johansson,se SWE,DF,Blackburn,21,1980,20,14,"1,365",15.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+259,Ronny Johnsen,no NOR,DF,Manchester Utd,32,1969,10,9,815,9.1,1,0,1,1,0,0,0,0,0.11,0,0.11,0.11,0.11,Matches
+260,Damien Johnson,nir NIR,MF,Blackburn,22,1978,7,6,438,4.9,1,0,1,1,0,0,1,0,0.21,0,0.21,0.21,0.21,Matches
+261,Jermaine Johnson,jm JAM,"FW,MF",Bolton,21,1980,9,4,425,4.7,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+262,Seth Johnson,eng ENG,"FW,MF",Derby County,22,1979,7,7,630,7,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+263,Seth Johnson,eng ENG,"FW,MF",Leeds United,22,1979,14,12,"1,032",11.5,0,1,1,0,0,0,4,0,0,0.09,0.09,0,0.09,Matches
+264,Allan Johnston,sct SCO,MF,Middlesbrough,27,1973,17,13,982,10.9,1,0,1,1,0,,1,0,0.09,0,0.09,0.09,0.09,Matches
+265,Slaviša Jokanović,rs SRB,MF,Chelsea,32,1968,20,12,"1,074",11.9,0,0,0,0,0,,5,1,0,0,0,0,0,Matches
+266,Matt Jones,wls WAL,MF,Leicester City,20,1980,10,6,562,6.2,1,0,1,1,0,0,0,0,0.16,0,0.16,0.16,0.16,Matches
+267,Paul Jones,wls WAL,GK,Southampton,34,1967,36,36,"3,240",36,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+268,Hassan Kachloul,ma MAR,MF,Aston Villa,28,1973,22,17,"1,321",14.7,2,1,3,2,0,0,3,0,0.14,0.07,0.2,0.14,0.2,Matches
+269,Frédéric Kanouté,ml MLI,FW,West Ham,23,1977,27,27,"2,196",24.4,11,3,14,11,0,0,4,0,0.45,0.12,0.57,0.45,0.57,Matches
+270,Nwankwo Kanu,ng NGA,FW,Arsenal,24,1976,23,9,930,10.3,3,1,4,3,0,0,2,0,0.29,0.1,0.39,0.29,0.39,Matches
+271,Robbie Keane,ie IRL,FW,Leeds United,21,1980,25,16,"1,620",18,3,4,7,3,0,0,3,0,0.17,0.22,0.39,0.17,0.39,Matches
+272,Roy Keane,ie IRL,MF,Manchester Utd,29,1971,28,28,"2,465",27.4,3,5,8,3,0,0,4,1,0.11,0.18,0.29,0.11,0.29,Matches
+273,Joe Keenan,eng ENG,MF,Chelsea,18,1982,1,0,15,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+274,Kasey Keller,us USA,GK,Tottenham,31,1969,9,9,810,9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+275,Gary Kelly,ie IRL,DF,Leeds United,27,1974,20,19,"1,712",19,0,3,3,0,0,0,2,0,0,0.16,0.16,0,0.16,Matches
+276,Alan Kelly Jr.,ie IRL,GK,Blackburn,32,1968,2,2,180,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+277,Martin Keown,eng ENG,"DF,MF",Arsenal,35,1966,22,21,"1,878",20.9,0,1,1,0,0,0,6,1,0,0.05,0.05,0,0.05,Matches
+278,Tugay Kerimoğlu,tr TUR,MF,Blackburn,30,1970,33,32,"2,779",30.9,3,3,6,3,0,0,8,0,0.1,0.1,0.19,0.1,0.19,Matches
+279,Harry Kewell,au AUS,"FW,MF",Leeds United,22,1978,27,26,"2,178",24.2,8,3,11,8,0,0,2,0,0.33,0.12,0.45,0.33,0.45,Matches
+280,Tahar El Khalej,ma MAR,"DF,MF",Southampton,33,1968,14,12,"1,138",12.6,1,1,2,1,0,0,1,1,0.08,0.08,0.16,0.08,0.16,Matches
+281,Dean Kiely,ie IRL,GK,Charlton Ath,30,1970,38,38,"3,420",38,0,1,1,0,0,0,0,0,0,0.03,0.03,0,0.03,Matches
+282,Kevin Kilbane,ie IRL,"DF,MF",Sunderland,24,1977,28,24,"2,151",23.9,2,0,2,2,0,0,3,0,0.08,0,0.08,0.08,0.08,Matches
+283,Ledley King,eng ENG,"DF,MF",Tottenham,20,1980,32,32,"2,835",31.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+284,Georgi Kinkladze,ge GEO,MF,Derby County,28,1973,24,13,"1,398",15.5,1,0,1,1,0,0,3,0,0.06,0,0.06,0.06,0.06,Matches
+285,Mark Kinsella,ie IRL,MF,Charlton Ath,28,1972,17,14,"1,275",14.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+286,Chris Kirkland,eng ENG,GK,Liverpool,20,1981,1,1,90,1,0,0,0,0,0,,0,0,0,0,0,0,0,Matches
+287,Radostin Kishishev,bg BUL,"DF,MF",Charlton Ath,27,1974,3,0,14,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+288,Paul Kitson,eng ENG,FW,West Ham,30,1971,7,3,297,3.3,3,0,3,3,0,0,0,0,0.91,0,0.91,0.91,0.91,Matches
+289,Zat Knight,eng ENG,DF,Fulham,21,1980,10,8,623,6.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+290,Paul Konchesky,eng ENG,"DF,FW",Charlton Ath,20,1981,34,22,"2,113",23.5,1,2,3,1,0,0,3,0,0.04,0.09,0.13,0.04,0.13,Matches
+291,Kostas Konstantinidis,gr GRE,DF,Bolton,28,1972,3,3,178,2,0,0,0,0,0,0,2,1,0,0,0,0,0,Matches
+292,Kevin Kyle,sct SCO,FW,Sunderland,20,1981,4,0,83,0.9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+293,Vladimír Labant,sk SVK,DF,West Ham,27,1974,12,7,709,7.9,0,2,2,0,0,0,1,0,0,0.25,0.25,0,0.25,Matches
+294,Frank Lampard,eng ENG,MF,Chelsea,23,1978,37,34,"3,114",34.6,5,3,8,5,0,0,3,1,0.14,0.09,0.23,0.14,0.23,Matches
+295,Lilian Laslandes,fr FRA,FW,Sunderland,29,1971,12,5,471,5.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+296,Lauren,cm CMR,DF,Arsenal,24,1977,27,27,"2,430",27,2,0,2,1,1,1,8,0,0.07,0,0.07,0.04,0.04,Matches
+297,Jacob Laursen,dk DEN,DF,Leicester City,29,1971,10,10,900,10,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+298,Ulrich Le Pen,fr FRA,MF,Ipswich Town,27,1974,1,0,11,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+299,Graeme Le Saux,eng ENG,DF,Chelsea,32,1968,27,26,"2,277",25.3,1,7,8,1,0,0,6,0,0.04,0.28,0.32,0.04,0.32,Matches
+300,Matt Le Tissier,eng ENG,"FW,MF",Southampton,32,1968,4,0,48,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+301,Rob Lee,eng ENG,MF,Derby County,35,1966,13,13,"1,124",12.5,0,1,1,0,0,0,3,0,0,0.08,0.08,0,0.08,Matches
+302,Rob Lee,eng ENG,MF,Newcastle Utd,35,1966,16,15,"1,271",14.1,1,2,3,1,0,0,3,0,0.07,0.14,0.21,0.07,0.21,Matches
+303,Sylvain Legwinski,fr FRA,MF,Fulham,27,1973,33,30,"2,579",28.7,3,1,4,3,0,0,8,0,0.1,0.03,0.14,0.1,0.14,Matches
+304,Øyvind Leonhardsen,no NOR,MF,Tottenham,30,1970,7,2,230,2.6,0,1,1,0,0,0,2,0,0,0.39,0.39,0,0.39,Matches
+305,Eddie Lewis,us USA,MF,Fulham,27,1974,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+306,Junior Lewis,eng ENG,MF,Leicester City,27,1973,6,4,472,5.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+307,Tobias Linderoth,se SWE,MF,Everton,22,1979,2,1,135,1.5,0,1,1,0,0,0,0,0,0,0.67,0.67,0,0.67,Matches
+308,Kevin Lisbie,jm JAM,FW,Charlton Ath,22,1978,22,10,"1,136",12.6,5,1,6,5,0,0,2,0,0.4,0.08,0.48,0.4,0.48,Matches
+309,Jari Litmanen,fi FIN,"FW,MF",Liverpool,30,1971,21,8,848,9.4,4,1,5,4,0,1,0,0,0.42,0.11,0.53,0.42,0.53,Matches
+310,Freddie Ljungberg,se SWE,"FW,MF",Arsenal,24,1977,25,24,"1,904",21.2,12,4,16,12,0,0,4,0,0.57,0.19,0.76,0.57,0.76,Matches
+311,Steve Lomas,nir NIR,MF,West Ham,27,1974,15,14,"1,246",13.8,4,0,4,4,0,0,3,0,0.29,0,0.29,0.29,0.29,Matches
+312,Lomana LuaLua,cd COD,"FW,MF",Newcastle Utd,20,1980,20,4,584,6.5,3,3,6,3,0,0,0,0,0.46,0.46,0.92,0.46,0.92,Matches
+313,Claus Lundekvam,no NOR,DF,Southampton,28,1973,34,34,"2,884",32,0,0,0,0,0,0,2,1,0,0,0,0,0,Matches
+314,Oleh Luzhny,ua UKR,DF,Arsenal,32,1968,18,15,"1,352",15,0,1,1,0,0,0,4,1,0,0.07,0.07,0,0.07,Matches
+315,Patrick M'Boma,cm CMR,FW,Sunderland,30,1970,9,5,471,5.2,1,0,1,1,0,0,2,0,0.19,0,0.19,0.19,0.19,Matches
+316,Charlie MacDonald,eng ENG,FW,Charlton Ath,20,1981,2,0,17,0.2,1,0,1,1,0,0,0,0,5.29,0,5.29,5.29,5.29,Matches
+317,Jürgen Macho,at AUT,GK,Sunderland,23,1977,4,4,360,4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+318,Jim Magilton,nir NIR,"DF,MF",Ipswich Town,32,1969,24,16,"1,463",16.3,0,1,1,0,0,0,1,0,0,0.06,0.06,0,0.06,Matches
+319,Alan Mahon,ie IRL,MF,Blackburn,23,1978,13,10,851,9.5,1,0,1,1,0,0,0,0,0.11,0,0.11,0.11,0.11,Matches
+320,Chris Makin,eng ENG,DF,Ipswich Town,28,1973,30,30,"2,547",28.3,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches
+321,Steed Malbranque,fr FRA,MF,Fulham,21,1980,37,33,"3,042",33.8,8,8,16,8,0,0,2,0,0.24,0.24,0.47,0.24,0.47,Matches
+322,Carlos Marinelli,ar ARG,MF,Middlesbrough,19,1982,20,12,"1,192",13.2,2,3,5,2,0,0,2,0,0.15,0.23,0.38,0.15,0.38,Matches
+323,Steve Marlet,fr FRA,"FW,MF",Fulham,27,1974,26,21,"1,895",21.1,6,3,9,6,0,0,1,0,0.28,0.14,0.43,0.28,0.43,Matches
+324,Chris Marsden,eng ENG,MF,Southampton,32,1969,28,27,"2,287",25.4,3,0,3,3,0,0,5,1,0.12,0,0.12,0.12,0.12,Matches
+325,Andy Marshall,eng ENG,GK,Ipswich Town,26,1975,13,13,"1,260",14,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+326,Ian Marshall,eng ENG,"DF,FW",Bolton,35,1966,2,0,16,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+327,Lee Marshall,eng ENG,"DF,MF",Leicester City,22,1979,35,29,"2,836",31.5,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+328,Nigel Martyn,eng ENG,GK,Leeds United,34,1966,38,38,"3,420",38,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+329,Dominic Matteo,sct SCO,"DF,MF",Leeds United,27,1974,32,32,"2,783",30.9,0,0,0,0,0,0,9,1,0,0,0,0,0,Matches
+330,Youl Mawéné,cg CGO,DF,Derby County,22,1979,17,17,"1,469",16.3,1,0,1,1,0,0,4,0,0.06,0,0.06,0.06,0.06,Matches
+331,David May,eng ENG,DF,Manchester Utd,31,1970,2,2,168,1.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+332,Alan Maybury,ie IRL,DF,Leeds United,22,1978,1,0,15,0.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+333,Gary McAllister,sct SCO,MF,Liverpool,36,1964,25,14,"1,249",13.9,0,4,4,0,0,1,0,0,0,0.29,0.29,0,0.29,Matches
+334,Jason McAteer,ie IRL,MF,Sunderland,30,1971,26,23,"2,087",23.2,2,3,5,2,0,0,8,0,0.09,0.13,0.22,0.09,0.22,Matches
+335,Jason McAteer,ie IRL,MF,Blackburn,30,1971,4,1,154,1.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+336,Gavin McCann,eng ENG,MF,Sunderland,23,1978,29,29,"2,593",28.8,0,1,1,0,0,0,8,0,0,0.03,0.03,0,0.03,Matches
+337,Grant McCann,nir NIR,MF,West Ham,21,1980,3,0,72,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+338,George McCartney,nir NIR,DF,Sunderland,20,1981,10,5,516,5.7,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+339,Jamie McClen,eng ENG,"DF,MF",Newcastle Utd,22,1979,3,3,245,2.7,0,0,0,0,0,,0,0,0,0,0,0,0,Matches
+340,Scott McDonald,au AUS,"FW,MF",Southampton,17,1983,2,0,27,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+341,John McGreal,eng ENG,DF,Ipswich Town,29,1972,27,27,"2,430",27,1,1,2,1,0,0,7,0,0.04,0.04,0.07,0.04,0.07,Matches
+342,Stephen McPhail,ie IRL,MF,Leeds United,21,1979,1,0,24,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+343,Mario Melchiot,nl NED,DF,Chelsea,24,1976,37,35,"3,132",34.8,2,0,2,2,0,0,4,0,0.06,0,0.06,0.06,0.06,Matches
+344,Olof Mellberg,se SWE,"DF,MF",Aston Villa,23,1977,32,32,"2,835",31.5,0,1,1,0,0,0,3,0,0,0.03,0.03,0,0.03,Matches
+345,Andy Melville,wls WAL,"DF,MF",Fulham,32,1968,35,35,"3,147",35,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+346,Paul Merson,eng ENG,"FW,MF",Aston Villa,33,1968,21,18,"1,577",17.5,2,2,4,2,0,0,0,0,0.11,0.11,0.23,0.11,0.23,Matches
+347,Tommy Miller,eng ENG,MF,Ipswich Town,22,1979,1,0,15,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+348,Danny Mills,eng ENG,DF,Leeds United,24,1977,28,28,"2,495",27.7,1,2,3,1,0,0,12,2,0.04,0.07,0.11,0.04,0.11,Matches
+349,Scott Minto,eng ENG,DF,West Ham,29,1971,5,5,422,4.7,0,1,1,0,0,0,1,0,0,0.21,0.21,0,0.21,Matches
+350,John Moncur,eng ENG,MF,West Ham,34,1966,19,7,668,7.4,0,0,0,0,0,0,6,0,0,0,0,0,0,Matches
+351,Garry Monk,eng ENG,DF,Southampton,22,1979,1,1,90,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+352,Joe-Max Moore,us USA,FW,Everton,30,1971,16,3,647,7.2,2,0,2,2,0,0,2,0,0.28,0,0.28,0.28,0.28,Matches
+353,Jody Morris,eng ENG,MF,Chelsea,22,1978,5,2,241,2.7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+354,Lee Morris,eng ENG,FW,Derby County,21,1980,15,9,793,8.8,4,1,5,4,0,0,1,0,0.45,0.11,0.57,0.45,0.57,Matches
+355,Neil Moss,eng ENG,GK,Southampton,26,1975,2,2,180,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+356,Danny Murphy,eng ENG,MF,Liverpool,24,1977,36,31,"2,719",30.2,6,8,14,6,0,0,4,0,0.2,0.26,0.46,0.2,0.46,Matches
+357,David Murphy,eng ENG,DF,Middlesbrough,17,1984,5,0,100,1.1,0,0,0,0,0,,0,0,0,0,0,0,0,Matches
+358,Adam Murray,eng ENG,MF,Derby County,19,1981,6,3,226,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+359,Paul Murray,eng ENG,MF,Southampton,24,1976,1,0,8,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+360,Robbie Mustoe,eng ENG,MF,Middlesbrough,32,1968,36,31,"2,765",30.7,2,1,3,2,0,0,2,0,0.07,0.03,0.1,0.07,0.1,Matches
+361,Bruno N'Gotty,fr FRA,DF,Bolton,30,1971,15,13,"1,189",13.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+362,Richard Naylor,eng ENG,"DF,FW",Ipswich Town,24,1977,14,5,565,6.3,1,3,4,1,0,0,3,0,0.16,0.48,0.64,0.16,0.64,Matches
+363,Gary Naysmith,sct SCO,"DF,MF",Everton,22,1978,24,23,"2,070",23,0,4,4,0,0,0,3,0,0,0.17,0.17,0,0.17,Matches
+364,Lucas Neill,au AUS,DF,Blackburn,23,1978,31,31,"2,702",30,1,1,2,1,0,0,8,0,0.03,0.03,0.07,0.03,0.07,Matches
+365,Szilárd Németh,sk SVK,FW,Middlesbrough,23,1977,21,11,"1,008",11.2,3,1,4,3,0,0,0,0,0.27,0.09,0.36,0.27,0.36,Matches
+366,Gary Neville,eng ENG,DF,Manchester Utd,26,1975,34,31,"2,794",31,0,3,3,0,0,0,4,0,0,0.1,0.1,0,0.1,Matches
+367,Phil Neville,eng ENG,"DF,MF",Manchester Utd,24,1977,28,21,"2,037",22.6,2,0,2,2,0,0,3,0,0.09,0,0.09,0.09,0.09,Matches
+368,Ruud van Nistelrooy,nl NED,FW,Manchester Utd,25,1976,32,29,"2,730",30.3,23,4,27,19,4,4,3,0,0.76,0.13,0.89,0.63,0.76,Matches
+369,Kevin Nolan,eng ENG,MF,Bolton,19,1982,35,34,"3,028",33.6,8,1,9,8,0,0,5,0,0.24,0.03,0.27,0.24,0.27,Matches
+370,Andy O'Brien,ie IRL,DF,Newcastle Utd,22,1979,34,31,"2,768",30.8,2,0,2,2,0,0,3,0,0.07,0,0.07,0.07,0.07,Matches
+371,Brian O'Neil,sct SCO,MF,Derby County,28,1972,10,8,705,7.8,0,0,0,0,0,0,3,1,0,0,0,0,0,Matches
+372,John O'Shea,ie IRL,"DF,MF",Manchester Utd,20,1981,9,4,364,4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+373,Andy Oakes,eng ENG,GK,Derby County,24,1977,20,20,"1,758",19.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+374,Stefan Oakes,eng ENG,MF,Leicester City,22,1978,21,16,"1,499",16.7,1,2,3,1,0,0,2,0,0.06,0.12,0.18,0.06,0.18,Matches
+375,Matt Oakley,eng ENG,MF,Southampton,23,1977,27,26,"2,227",24.7,1,1,2,1,0,0,1,0,0.04,0.04,0.08,0.04,0.08,Matches
+376,Paul Okon,au AUS,MF,Middlesbrough,29,1972,4,1,99,1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+377,Brett Ormerod,eng ENG,FW,Southampton,24,1976,18,8,906,10.1,1,2,3,1,0,0,0,0,0.1,0.2,0.3,0.1,0.3,Matches
+378,Abdeslam Ouaddou,ma MAR,"DF,MF",Fulham,22,1978,8,4,390,4.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+379,Michael Owen,eng ENG,FW,Liverpool,21,1979,29,25,"2,221",24.7,19,1,20,18,1,1,1,0,0.77,0.04,0.81,0.73,0.77,Matches
+380,Alpay Özalan,tr TUR,DF,Aston Villa,28,1973,14,14,"1,201",13.3,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+381,Juan Pablo Ángel,co COL,FW,Aston Villa,25,1975,29,29,"2,193",24.4,12,3,15,10,2,2,3,0,0.49,0.12,0.62,0.41,0.53,Matches
+382,Marians Pahars,lv LVA,"FW,MF",Southampton,24,1976,36,33,"2,833",31.5,14,4,18,12,2,2,2,0,0.44,0.13,0.57,0.38,0.51,Matches
+383,Scott Parker,eng ENG,MF,Charlton Ath,20,1980,38,36,"2,975",33.1,1,2,3,1,0,0,9,1,0.03,0.06,0.09,0.03,0.09,Matches
+384,Ray Parlour,eng ENG,MF,Arsenal,28,1973,27,25,"2,067",23,0,0,0,0,0,0,9,2,0,0,0,0,0,Matches
+385,Gavin Peacock,eng ENG,"FW,MF",Charlton Ath,33,1967,5,1,167,1.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+386,Ian Pearce,eng ENG,DF,West Ham,27,1974,9,8,788,8.8,2,0,2,2,0,0,3,0,0.23,0,0.23,0.23,0.23,Matches
+387,Henrik Pedersen,dk DEN,FW,Bolton,26,1975,11,5,494,5.5,0,1,1,0,0,0,0,0,0,0.18,0.18,0,0.18,Matches
+388,Mark Pembridge,wls WAL,MF,Everton,30,1970,14,10,821,9.1,1,3,4,1,0,0,0,0,0.11,0.33,0.44,0.11,0.44,Matches
+389,Sixto Peralta,ar ARG,MF,Ipswich Town,22,1979,22,16,"1,552",17.2,3,2,5,3,0,0,2,0,0.17,0.12,0.29,0.17,0.29,Matches
+390,Chris Perry,eng ENG,DF,Tottenham,28,1973,33,30,"2,689",29.9,0,0,0,0,0,0,8,0,0,0,0,0,0,Matches
+391,Emmanuel Petit,fr FRA,"DF,MF",Chelsea,30,1970,27,26,"2,177",24.2,1,3,4,1,0,0,3,0,0.04,0.12,0.17,0.04,0.17,Matches
+392,Dan Petrescu,ro ROU,DF,Southampton,33,1967,2,0,55,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+393,Kevin Phillips,eng ENG,FW,Sunderland,28,1973,37,37,"3,239",36,11,4,15,10,1,3,3,0,0.31,0.11,0.42,0.28,0.39,Matches
+394,Matt Piper,eng ENG,MF,Leicester City,19,1981,16,14,"1,320",14.7,1,1,2,1,0,0,0,0,0.07,0.07,0.14,0.07,0.14,Matches
+395,Robert Pirès,fr FRA,"FW,MF",Arsenal,27,1973,28,27,"2,344",26,9,15,24,8,1,1,6,0,0.35,0.58,0.92,0.31,0.88,Matches
+396,Alessandro Pistone,it ITA,DF,Everton,26,1975,25,25,"2,148",23.9,1,1,2,1,0,0,7,0,0.04,0.04,0.08,0.04,0.08,Matches
+397,Kevin Poole,eng ENG,GK,Bolton,38,1963,3,3,270,3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+398,Mart Poom,ee EST,GK,Derby County,29,1972,17,16,"1,472",16.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+399,Chris Powell,eng ENG,DF,Charlton Ath,31,1969,36,35,"3,129",34.8,1,1,2,1,0,0,3,0,0.03,0.03,0.06,0.03,0.06,Matches
+400,Darryl Powell,jm JAM,MF,Derby County,29,1971,23,23,"1,959",21.8,1,0,1,1,0,0,4,0,0.05,0,0.05,0.05,0.05,Matches
+401,Gus Poyet,uy URU,MF,Tottenham,33,1967,34,32,"2,817",31.3,10,4,14,10,0,0,6,1,0.32,0.13,0.45,0.32,0.45,Matches
+402,Franck Queudrue,fr FRA,DF,Middlesbrough,22,1978,28,28,"2,361",26.2,2,3,5,2,0,0,8,1,0.08,0.11,0.19,0.08,0.19,Matches
+403,Niall Quinn,ie IRL,FW,Sunderland,34,1966,38,24,"2,228",24.8,6,3,9,6,0,0,3,0,0.24,0.12,0.36,0.24,0.36,Matches
+404,Tomasz Radzinski,ca CAN,FW,Everton,27,1973,27,23,"2,106",23.4,6,3,9,6,0,0,1,0,0.26,0.13,0.38,0.26,0.38,Matches
+405,Alex Rae,sct SCO,MF,Sunderland,31,1969,3,1,82,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+406,Fabrizio Ravanelli,it ITA,FW,Derby County,32,1968,31,30,"2,618",29.1,9,3,12,8,1,3,5,0,0.31,0.1,0.41,0.28,0.38,Matches
+407,Serhiy Rebrov,ua UKR,"FW,MF",Tottenham,27,1974,30,9,950,10.6,1,3,4,1,0,0,0,0,0.09,0.28,0.38,0.09,0.38,Matches
+408,Jamie Redknapp,eng ENG,MF,Liverpool,28,1973,4,2,181,2,1,0,1,,,,1,,0.5,0,0.5,,,Matches
+409,Martin Reeves,eng ENG,MF,Leicester City,19,1981,5,1,125,1.4,0,0,0,0,0,,1,0,0,0,0,0,0,Matches
+410,Tomáš Řepka,cz CZE,DF,West Ham,27,1974,31,31,"2,760",30.7,0,0,0,0,0,0,9,2,0,0,0,0,0,Matches
+411,Martijn Reuser,nl NED,MF,Ipswich Town,26,1975,24,18,"1,727",19.2,1,4,5,1,0,0,3,0,0.05,0.21,0.26,0.05,0.26,Matches
+412,Claudio Reyna,us USA,MF,Sunderland,28,1973,17,17,"1,416",15.7,3,1,4,3,0,0,3,1,0.19,0.06,0.25,0.19,0.25,Matches
+413,Hámilton Ricard,co COL,FW,Middlesbrough,27,1974,9,6,503,5.6,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+414,Dean Richards,eng ENG,DF,Southampton,27,1974,4,4,360,4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+415,Dean Richards,eng ENG,DF,Tottenham,27,1974,24,24,"2,115",23.5,2,1,3,2,0,0,3,0,0.09,0.04,0.13,0.09,0.13,Matches
+416,Leam Richardson,eng ENG,DF,Bolton,21,1979,1,0,8,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+417,Michael Ricketts,eng ENG,FW,Bolton,22,1978,37,26,"2,463",27.4,12,2,14,12,0,0,4,0,0.44,0.07,0.51,0.44,0.51,Matches
+418,Chris Riggott,eng ENG,DF,Derby County,20,1980,37,37,"3,300",36.7,0,2,2,0,0,0,7,0,0,0.05,0.05,0,0.05,Matches
+419,Stuart Ripley,eng ENG,"FW,MF",Southampton,33,1967,5,1,165,1.8,0,1,1,0,0,0,0,0,0,0.55,0.55,0,0.55,Matches
+420,Laurent Robert,fr FRA,"FW,MF",Newcastle Utd,26,1975,36,34,"3,031",33.7,8,11,19,8,0,0,7,0,0.24,0.33,0.56,0.24,0.56,Matches
+421,John Robinson,wls WAL,MF,Charlton Ath,29,1971,28,16,"1,550",17.2,1,1,2,1,0,0,4,0,0.06,0.06,0.12,0.06,0.12,Matches
+422,Marvin Robinson,eng ENG,FW,Derby County,21,1980,2,0,48,0.5,1,0,1,1,0,0,0,0,1.87,0,1.87,1.87,1.87,Matches
+423,Alan Rogers,eng ENG,DF,Leicester City,24,1977,11,7,677,7.5,0,1,1,0,0,0,1,0,0,0.13,0.13,0,0.13,Matches
+424,Uwe Rösler,de GER,FW,Southampton,32,1968,4,3,260,2.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+425,Gary Rowett,eng ENG,DF,Leicester City,27,1974,11,9,874,9.7,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+426,Richard Rufus,eng ENG,DF,Charlton Ath,26,1975,10,10,842,9.4,1,0,1,1,0,0,1,0,0.11,0,0.11,0.11,0.11,Matches
+427,Louis Saha,fr FRA,FW,Fulham,22,1978,36,28,"2,726",30.3,8,1,9,7,1,2,5,0,0.26,0.03,0.3,0.23,0.26,Matches
+428,John Salako,eng ENG,MF,Charlton Ath,32,1969,3,2,116,1.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+429,Jlloyd Samuel,tt TRI,"DF,MF",Aston Villa,20,1981,23,17,"1,611",17.9,0,3,3,0,0,0,2,0,0,0.17,0.17,0,0.17,Matches
+430,Robbie Savage,wls WAL,MF,Leicester City,26,1974,35,35,"3,083",34.3,0,2,2,0,0,0,14,0,0,0.06,0.06,0,0.06,Matches
+431,Sébastien Schemmel,fr FRA,DF,West Ham,26,1975,35,35,"3,059",34,1,6,7,1,0,0,6,0,0.03,0.18,0.21,0.03,0.21,Matches
+432,Peter Schmeichel,dk DEN,GK,Aston Villa,37,1963,29,29,"2,610",29,1,0,1,1,0,0,1,0,0.03,0,0.03,0.03,0.03,Matches
+433,Paul Scholes,eng ENG,MF,Manchester Utd,26,1974,35,30,"2,755",30.6,8,5,13,8,0,0,9,0,0.26,0.16,0.42,0.26,0.42,Matches
+434,Stefan Schwarz,se SWE,"DF,MF",Sunderland,32,1969,20,18,"1,597",17.7,1,4,5,1,0,0,6,0,0.06,0.23,0.28,0.06,0.28,Matches
+435,Mark Schwarzer,au AUS,GK,Middlesbrough,28,1972,21,21,"1,830",20.3,0,0,0,0,0,0,0,1,0,0,0,0,0,Matches
+436,James Scowcroft,eng ENG,FW,Leicester City,25,1975,24,21,"1,883",20.9,5,2,7,5,0,0,3,0,0.24,0.1,0.33,0.24,0.33,Matches
+437,David Seaman,eng ENG,GK,Arsenal,37,1963,17,17,"1,530",17,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+438,Juan Sebastián Verón,ar ARG,MF,Manchester Utd,26,1975,26,24,"2,037",22.6,5,1,6,5,0,0,3,0,0.22,0.04,0.27,0.22,0.27,Matches
+439,Matteo Sereni,it ITA,GK,Ipswich Town,26,1975,25,25,"2,217",24.6,0,0,0,0,0,0,0,1,0,0,0,0,0,Matches
+440,Alan Shearer,eng ENG,FW,Newcastle Utd,30,1970,37,36,"3,220",35.8,23,4,27,18,5,7,2,1,0.64,0.11,0.75,0.5,0.61,Matches
+441,Teddy Sheringham,eng ENG,FW,Tottenham,35,1966,34,33,"2,944",32.7,10,3,13,7,3,3,4,1,0.31,0.09,0.4,0.21,0.31,Matches
+442,Tim Sherwood,eng ENG,MF,Tottenham,32,1969,19,15,"1,391",15.5,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches
+443,Craig Short,eng ENG,DF,Blackburn,33,1968,22,21,"1,805",20.1,0,0,0,0,0,0,4,3,0,0,0,0,0,Matches
+444,Mikaël Silvestre,fr FRA,DF,Manchester Utd,23,1977,35,31,"2,802",31.1,0,5,5,0,0,0,3,0,0,0.16,0.16,0,0.16,Matches
+445,Steve Simonsen,eng ENG,GK,Everton,22,1979,25,25,"2,250",25,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+446,Frank Sinclair,jm JAM,DF,Leicester City,29,1971,35,33,"2,893",32.1,0,0,0,0,0,0,8,0,0,0,0,0,0,Matches
+447,Trevor Sinclair,eng ENG,MF,West Ham,28,1973,34,34,"3,010",33.4,5,7,12,5,0,0,5,0,0.15,0.21,0.36,0.15,0.36,Matches
+448,Vladimír Šmicer,cz CZE,"FW,MF",Liverpool,28,1973,22,13,"1,314",14.6,4,6,10,4,0,0,2,0,0.27,0.41,0.68,0.27,0.68,Matches
+449,Alan Smith,eng ENG,"FW,MF",Leeds United,20,1980,23,19,"1,638",18.2,4,3,7,4,0,0,6,1,0.22,0.16,0.38,0.22,0.38,Matches
+450,Jeff Smith,eng ENG,"DF,MF",Bolton,21,1980,1,0,32,0.4,0,0,0,0,0,,0,0,0,0,0,0,0,Matches
+451,Nolberto Solano,pe PER,MF,Newcastle Utd,26,1974,37,37,"3,158",35.1,7,9,16,7,0,0,3,0,0.2,0.26,0.46,0.2,0.46,Matches
+452,Ragnvald Soma,no NOR,DF,West Ham,21,1979,3,1,125,1.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+453,Rigobert Song,cm CMR,DF,West Ham,25,1976,5,5,405,4.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+454,Nicky Southall,eng ENG,MF,Bolton,29,1972,18,10,"1,009",11.2,1,1,2,1,0,0,1,0,0.09,0.09,0.18,0.09,0.18,Matches
+455,Gareth Southgate,eng ENG,DF,Middlesbrough,30,1970,37,37,"3,330",37,1,0,1,1,0,0,0,0,0.03,0,0.03,0.03,0.03,Matches
+456,Gary Speed,wls WAL,MF,Newcastle Utd,31,1969,29,28,"2,449",27.2,5,1,6,5,0,0,3,0,0.18,0.04,0.22,0.18,0.22,Matches
+457,Jaap Stam,nl NED,DF,Manchester Utd,29,1972,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+458,Phil Stamp,eng ENG,MF,Middlesbrough,25,1975,6,3,295,3.3,0,1,1,0,0,0,0,0,0,0.31,0.31,0,0.31,Matches
+459,Mario Stanić,hr CRO,"FW,MF",Chelsea,29,1972,27,18,"1,605",17.8,1,2,3,1,0,0,8,0,0.06,0.11,0.17,0.06,0.17,Matches
+460,Steve Staunton,ie IRL,"DF,MF",Aston Villa,32,1969,33,30,"2,755",30.6,0,3,3,0,0,0,2,0,0,0.1,0.1,0,0.1,Matches
+461,Igors Stepanovs,lv LVA,DF,Arsenal,25,1976,6,6,495,5.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+462,Jon Stevenson,eng ENG,FW,Leicester City,18,1982,6,0,121,1.3,1,0,1,1,0,,0,0,0.74,0,0.74,0.74,0.74,Matches
+463,Jordan Stewart,eng ENG,"DF,MF",Leicester City,19,1982,12,9,817,9.1,0,1,1,0,0,0,2,0,0,0.11,0.11,0,0.11,Matches
+464,Marcus Stewart,eng ENG,FW,Ipswich Town,28,1972,28,20,"2,081",23.1,6,4,10,5,1,2,1,0,0.26,0.17,0.43,0.22,0.39,Matches
+465,Michael Stewart,sct SCO,MF,Manchester Utd,20,1981,1,0,23,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+466,Robbie Stockdale,sct SCO,DF,Middlesbrough,21,1979,28,26,"2,341",26,1,0,1,1,0,0,2,0,0.04,0,0.04,0.04,0.04,Matches
+467,Andrejs Štolcers,lv LVA,MF,Fulham,27,1974,5,0,27,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+468,Steve Stone,eng ENG,MF,Aston Villa,29,1971,22,14,"1,344",14.9,1,4,5,1,0,0,2,0,0.07,0.27,0.33,0.07,0.33,Matches
+469,Branko Strupar,be BEL,FW,Derby County,31,1970,12,8,666,7.4,4,0,4,4,0,0,0,0,0.54,0,0.54,0.54,0.54,Matches
+470,Graham Stuart,eng ENG,"FW,MF",Charlton Ath,30,1970,31,31,"2,605",28.9,3,1,4,3,0,1,4,1,0.1,0.03,0.14,0.1,0.14,Matches
+471,Alan Stubbs,eng ENG,DF,Everton,29,1971,31,29,"2,614",29,2,0,2,2,0,0,5,0,0.07,0,0.07,0.07,0.07,Matches
+472,Dean Sturridge,eng ENG,FW,Leicester City,28,1973,9,8,588,6.5,3,0,3,3,0,0,0,0,0.46,0,0.46,0.46,0.46,Matches
+473,Neil Sullivan,sct SCO,GK,Tottenham,31,1970,29,29,"2,610",29,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+474,Anders Svensson,se SWE,MF,Southampton,25,1976,34,33,"2,803",31.1,4,5,9,4,0,0,0,0,0.13,0.16,0.29,0.13,0.29,Matches
+475,Mathias Svensson,se SWE,FW,Charlton Ath,26,1974,12,6,583,6.5,0,1,1,0,0,0,0,0,0,0.15,0.15,0,0.15,Matches
+476,Kit Symons,wls WAL,DF,Fulham,30,1971,4,2,284,3.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+477,Thomas Sørensen,dk DEN,GK,Sunderland,25,1976,34,34,"3,060",34,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+478,Gerry Taggart,nir NIR,DF,Leicester City,30,1970,1,0,17,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+479,Idan Tal,il ISR,MF,Everton,25,1975,7,1,192,2.1,0,1,1,0,0,0,0,0,0,0.47,0.47,0,0.47,Matches
+480,Mauricio Taricco,ar ARG,DF,Tottenham,28,1973,30,30,"2,475",27.5,0,1,1,0,0,0,4,2,0,0.04,0.04,0,0.04,Matches
+481,Ian Taylor,eng ENG,MF,Aston Villa,33,1968,16,7,904,10,3,1,4,3,0,0,2,0,0.3,0.1,0.4,0.3,0.4,Matches
+482,Maik Taylor,nir NIR,GK,Fulham,29,1971,2,1,99,1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+483,Martin Taylor,eng ENG,DF,Blackburn,21,1979,19,12,"1,231",13.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+484,Stuart Taylor,eng ENG,GK,Arsenal,20,1980,10,9,817,9.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+485,Paul Telfer,sct SCO,"DF,MF",Southampton,29,1971,28,27,"2,374",26.4,1,2,3,1,0,0,1,0,0.04,0.08,0.11,0.04,0.11,Matches
+486,John Terry,eng ENG,DF,Chelsea,20,1980,33,32,"2,724",30.3,1,1,2,1,0,0,4,0,0.03,0.03,0.07,0.03,0.07,Matches
+487,Jo Tessem,no NOR,MF,Southampton,29,1972,22,7,913,10.1,2,0,2,2,0,0,2,0,0.2,0,0.2,0.2,0.2,Matches
+488,Ben Thatcher,wls WAL,DF,Tottenham,25,1975,12,11,956,10.6,0,1,1,0,0,0,3,0,0,0.09,0.09,0,0.09,Matches
+489,Alton Thelwell,eng ENG,DF,Tottenham,20,1980,2,0,58,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+490,Paul Thirlwell,eng ENG,MF,Sunderland,22,1979,14,11,"1,005",11.2,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+491,Emerson Thome,br BRA,DF,Sunderland,29,1972,12,12,"1,080",12,1,0,1,1,0,0,3,0,0.08,0,0.08,0.08,0.08,Matches
+492,Andy Todd,eng ENG,DF,Charlton Ath,26,1974,5,3,322,3.6,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+493,Svetoslav Todorov,bg BUL,FW,West Ham,22,1978,5,2,221,2.5,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+494,Gary Twigg,sct SCO,FW,Derby County,17,1984,1,0,25,0.3,0,1,1,0,0,,0,0,0,3.6,3.6,0,3.6,Matches
+495,Stig Tøfting,dk DEN,MF,Bolton,31,1969,6,6,475,5.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+496,Hakan Ünsal,tr TUR,DF,Blackburn,28,1973,8,7,642,7.1,0,2,2,0,0,0,2,0,0,0.28,0.28,0,0.28,Matches
+497,David Unsworth,eng ENG,DF,Everton,27,1973,33,28,"2,543",28.3,3,1,4,2,1,1,6,0,0.11,0.04,0.14,0.07,0.11,Matches
+498,Matt Upson,eng ENG,DF,Arsenal,22,1979,14,10,886,9.8,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+499,Simo Valakari,fi FIN,MF,Derby County,28,1973,9,6,583,6.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+500,Stanislav Varga,sk SVK,DF,Sunderland,28,1972,9,9,739,8.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+501,Darius Vassell,eng ENG,"FW,MF",Aston Villa,21,1980,36,30,"2,613",29,12,2,14,12,0,0,3,0,0.41,0.07,0.48,0.41,0.48,Matches
+502,Mark Venus,eng ENG,DF,Ipswich Town,34,1967,29,29,"2,588",28.8,1,8,9,1,0,0,3,0,0.03,0.28,0.31,0.03,0.31,Matches
+503,Steve Vickers,eng ENG,DF,Middlesbrough,33,1967,2,2,151,1.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+504,Mark Viduka,au AUS,FW,Leeds United,25,1975,33,33,"2,967",33,11,7,18,11,0,0,3,0,0.33,0.21,0.55,0.33,0.55,Matches
+505,Patrick Vieira,fr FRA,MF,Arsenal,25,1976,36,35,"3,081",34.2,2,2,4,2,0,1,12,1,0.06,0.06,0.12,0.06,0.12,Matches
+506,Grégory Vignal,fr FRA,DF,Liverpool,20,1981,4,3,300,3.3,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+507,Ian Walker,eng ENG,GK,Leicester City,29,1971,35,35,"3,084",34.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+508,Rod Wallace,eng ENG,FW,Bolton,31,1969,19,14,"1,228",13.6,3,2,5,3,0,0,2,0,0.22,0.15,0.37,0.22,0.37,Matches
+509,Ronnie Wallwork,eng ENG,"DF,MF",Manchester Utd,23,1977,1,0,8,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+510,Paul Warhurst,eng ENG,"DF,MF",Bolton,31,1969,25,25,"1,857",20.6,0,1,1,0,0,0,7,1,0,0.05,0.05,0,0.05,Matches
+511,Steve Watson,eng ENG,"DF,MF",Everton,27,1974,25,24,"2,117",23.5,4,2,6,4,0,0,1,0,0.17,0.09,0.26,0.17,0.26,Matches
+512,David Weir,sct SCO,DF,Everton,31,1970,36,36,"3,201",35.6,4,2,6,4,0,0,6,1,0.11,0.06,0.17,0.11,0.17,Matches
+513,Sander Westerveld,nl NED,GK,Liverpool,26,1974,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+514,Noel Whelan,eng ENG,FW,Middlesbrough,26,1974,19,18,"1,446",16.1,4,0,4,4,0,0,2,0,0.25,0,0.25,0.25,0.25,Matches
+515,Mike Whitlow,eng ENG,DF,Bolton,33,1968,29,28,"2,506",27.8,0,2,2,0,0,0,9,0,0,0.07,0.07,0,0.07,Matches
+516,Jason Wilcox,eng ENG,"FW,MF",Leeds United,30,1971,13,4,517,5.7,0,1,1,0,0,0,2,0,0,0.17,0.17,0,0.17,Matches
+517,Luke Wilkshire,au AUS,"DF,FW",Middlesbrough,19,1981,7,6,514,5.7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+518,Darren Williams,eng ENG,DF,Sunderland,24,1977,28,28,"2,144",23.8,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+519,Paul Williams,eng ENG,DF,Southampton,30,1971,28,27,"2,440",27.1,0,2,2,0,0,0,5,0,0,0.07,0.07,0,0.07,Matches
+520,Tom Williamson,eng ENG,MF,Leicester City,16,1984,1,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,Matches
+521,Calum Willock,kn SKN,FW,Fulham,19,1981,2,0,9,0.1,0,0,0,0,0,,0,0,0,0,0,0,0,Matches
+522,Fabian Wilnis,nl NED,DF,Ipswich Town,30,1970,14,6,778,8.6,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+523,Mark Wilson,eng ENG,MF,Middlesbrough,22,1979,10,2,320,3.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+524,Sylvain Wiltord,fr FRA,"FW,MF",Arsenal,27,1974,32,22,"2,425",26.9,10,7,17,10,0,0,0,0,0.37,0.26,0.63,0.37,0.63,Matches
+525,Dean Windass,eng ENG,"FW,MF",Middlesbrough,32,1969,27,8,800,8.9,1,0,1,1,0,0,2,0,0.11,0,0.11,0.11,0.11,Matches
+526,Nigel Winterburn,eng ENG,DF,West Ham,37,1963,31,29,"2,606",29,0,1,1,0,0,0,4,0,0,0.03,0.03,0,0.03,Matches
+527,Dennis Wise,eng ENG,MF,Leicester City,34,1966,17,15,"1,337",14.9,1,0,1,1,0,0,6,1,0.07,0,0.07,0.07,0.07,Matches
+528,Jonathan Woodgate,eng ENG,DF,Leeds United,21,1980,13,11,958,10.6,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+529,Alan Wright,eng ENG,DF,Aston Villa,29,1971,23,23,"2,051",22.8,0,1,1,0,0,0,1,0,0,0.04,0.04,0,0.04,Matches
+530,Jermaine Wright,eng ENG,"DF,MF",Ipswich Town,25,1975,29,24,"2,237",24.9,1,0,1,1,0,0,3,0,0.04,0,0.04,0.04,0.04,Matches
+531,Richard Wright,eng ENG,GK,Arsenal,23,1977,12,12,"1,073",11.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+532,Stephen Wright,eng ENG,DF,Liverpool,21,1980,12,10,899,10,0,0,0,0,0,0,3,1,0,0,0,0,0,Matches
+533,Tommy Wright,eng ENG,FW,Leicester City,16,1984,1,0,5,0.1,0,0,0,0,0,,0,0,0,0,0,0,0,Matches
+534,Abel Xavier,pt POR,DF,Liverpool,28,1972,10,9,756,8.4,1,2,3,1,0,0,1,0,0.12,0.24,0.36,0.12,0.36,Matches
+535,Abel Xavier,pt POR,DF,Everton,28,1972,12,11,902,10,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+536,Yordi,es ESP,FW,Blackburn,25,1975,7,5,362,4,2,0,2,2,0,,0,0,0.5,0,0.5,0.5,0.5,Matches
+537,Dwight Yorke,tt TRI,"FW,MF",Manchester Utd,29,1971,10,4,469,5.2,1,0,1,1,0,0,0,0,0.19,0,0.19,0.19,0.19,Matches
+538,Luke Young,eng ENG,DF,Charlton Ath,22,1979,34,34,"2,902",32.2,0,1,1,0,0,0,5,0,0,0.03,0.03,0,0.03,Matches
+539,Luciano Zavagno,ar ARG,DF,Derby County,23,1977,26,26,"2,149",23.9,0,1,1,0,0,0,8,0,0,0.04,0.04,0,0.04,Matches
+540,Boudewijn Zenden,nl NED,"DF,FW",Chelsea,24,1976,22,13,"1,181",13.1,3,2,5,3,0,0,1,0,0.23,0.15,0.38,0.23,0.38,Matches
+541,Christian Ziege,de GER,"DF,MF",Tottenham,29,1972,27,27,"2,353",26.1,5,6,11,5,0,0,6,0,0.19,0.23,0.42,0.19,0.42,Matches
+542,Gianfranco Zola,it ITA,FW,Chelsea,35,1966,35,19,"1,788",19.9,3,4,7,3,0,0,1,0,0.15,0.2,0.35,0.15,0.35,Matches
+543,Egil Østenstad,no NOR,FW,Blackburn,29,1972,4,2,162,1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
