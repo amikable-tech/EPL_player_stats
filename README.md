@@ -31,12 +31,25 @@ PrgR -- Progressive Passes Received. Progressive Passes Received are completed p
 poy_winner - The winner of the Player of the Season award. 1 - for the winner and 0 for other players.  
 Predicted_Rk - Projected/predicted ranking of the players at the end of the season purely based on parameters specified in the predictors list.  
 
-predictor variables includs all numeric variables, which can be adjusted as you desire 
+predictor variables includes all numeric variables, which can be adjusted as you desire 
 [
     'Age', 'MP', 'Starts', 'Min', '90s', 'Gls',
        'Ast', 'G+A', 'xG', 'npxG', 'xAG',
        'npxG+xAG', 'PrgC', 'PrgP', 'PrgR', 'CrdY', 'CrdR'
 ]
+# Exploratory Data Analysis  
+I did some simple EDA to give me an overview of what my Data looks like.  
+I explored the following:  
+
+_1. Players with the most progressive carries, receives and passes in 2021/2022, 2022/2023 & 2023/2024 season_  
+![img.png](img.png)  
+_2. Most penalised clubs (Red and Yellow cards) each season_
+![img_1.png](img_1.png)
+
+_3. Determining the club with the highest number of players below 20 years old from 2023/2023 & 2023/2024_
+![img_2.png](img_2.png)
+_4. Number of goals scored by the winner of the player of the season award_
+![img_3.png](img_3.png)
 # Acknowledgement  
 Special thanks and acknowledgment go to ReDI School, Munich especially the tutors and volunteers for their selfless work and contribution.  
 
