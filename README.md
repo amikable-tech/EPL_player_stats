@@ -37,6 +37,11 @@ predictor variables includes all numeric variables, which can be adjusted as you
        'Ast', 'G+A', 'xG', 'npxG', 'xAG',
        'npxG+xAG', 'PrgC', 'PrgP', 'PrgR', 'CrdY', 'CrdR'
 ]
+_Player rank based on variables in the predictors' list for 2023/2024 season_  
+![img_4.png](img_4.png)  
+_Player rank based on variables in the predictors' list for 2022/2023 season_    
+![img_5.png](img_5.png)
+
 # Exploratory Data Analysis  
 I did some simple EDA to give me an overview of what my Data looks like.  
 I explored the following:  
