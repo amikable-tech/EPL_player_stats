@@ -29,9 +29,9 @@ PrgC - Progressive carries. Carries that move the ball toward the opponent's goa
 PrgP -- Progressive Passes. Progressive Passes completed passes that move the ball towards the opponent's goal line at least 10 yards from its furthest point in the last six passes, or any completed pass into the penalty area. Excludes passes from the defending 40% of the pitch.  
 PrgR -- Progressive Passes Received. Progressive Passes Received are completed passes that move the ball toward the opponent's goal line at least 10 yards from its furthest point in the last six passes, or any completed pass into the penalty area. Excludes passes from the defending 40% of the pitch.  
 poy_winner - The winner of the Player of the Season award. 1 - for the winner and 0 for other players.  
-Predicted_Rk - Projected/predicted ranking of the players at the end of the season purely based on parameters specified in the predictors list.  
+Predicted_Rk - Projected/predicted ranking of the players at the end of the season purely based on parameters specified in the predictors' list.  
 
-predictor variables includes all numeric variables, which can be adjusted as you desire 
+predictor variables include all numeric variables, which can be adjusted as you desire 
 [
     'Age', 'MP', 'Starts', 'Min', '90s', 'Gls',
        'Ast', 'G+A', 'xG', 'npxG', 'xAG',
